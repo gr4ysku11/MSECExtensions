@@ -1,7 +1,12 @@
 #### Disclaimer
 The MSEC Debugger Extensions project was never migrated to GitHub from Microsoft's CodePlex open source repository. As a result, there isn't a standard or reliable location to obtain msec.dll for the infamous !exploitable crash analyser. I created this repository to host the original source code along with compiled binaries for msec.dll
 
-source code obtained from [The Wayback Machine](https://web.archive.org/web/*/https://archive.codeplex.com/?p=msecdbg)
+- source code obtained from [The Wayback Machine](https://web.archive.org/web/*/https://archive.codeplex.com/?p=msecdbg)
+
+- Compiled binaries are located under Releases
+
+- to manually build, just open the solution in vs2022 and build!
+
 
 # MSECExtensions
 !exploitable Crash Analyzer - MSEC Debugger Extensions
