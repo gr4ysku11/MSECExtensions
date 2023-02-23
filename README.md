@@ -2,9 +2,11 @@ The MSEC Debugger Extensions project was never migrated to GitHub from Microsoft
 
 - source code obtained from [The Wayback Machine](https://web.archive.org/web/*/https://archive.codeplex.com/?p=msecdbg)
 
-- Compiled binaries are located under Releases
+- Compiled binaries are located under [Releases](https://github.com/gr4ysku11/MSECExtensions/releases)
 
-- to manually build, just open the solution in vs2022 and build!
+- Minimal changes have been made (mostly to the project file) in order to build in vs2022
+
+- To compile msec.dll manually, just open the solution in vs2022 and build!
 
 # MSECExtensions
 !exploitable Crash Analyzer - MSEC Debugger Extensions
